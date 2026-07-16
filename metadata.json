@@ -1,0 +1,6 @@
+{
+  "name": "ApexArena Analytics",
+  "description": "Core reasoning engine for sports business and operations orchestration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
